@@ -4,7 +4,7 @@ I'm looking to collaborate on project in open source and selfprojeect
 I'm currently learning algorithms structureand , DevOps, react 
 Ask me about eveerything you want
 Fun fact
-The first computer “bug” was an actual real-life bug
+The first computer “bug” was an actual real-life bug.
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/djibythioub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/djiby-thioub-583880169/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/djibythioub) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCk9X4KjLPbtXFjOOjytJZSw) 
